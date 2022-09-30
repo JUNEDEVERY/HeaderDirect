@@ -1,0 +1,7 @@
+﻿  PreprocessorDirectives.c
+C:\Users\stron\source\repos\ConsoleApplication2\PreprocessorDirectives\Header.h(62,12): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\stron\source\repos\ConsoleApplication2\PreprocessorDirectives\Header.h(62,1): warning C4047: инициализация: "char *" отличается по уровням косвенного обращения от "int"
+C:\Users\stron\source\repos\ConsoleApplication2\PreprocessorDirectives\Header.h(80,17): warning C4013: atoi: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\stron\source\repos\ConsoleApplication2\PreprocessorDirectives\Header.h(82,2): warning C4013: itoa: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\stron\source\repos\ConsoleApplication2\PreprocessorDirectives\PreprocessorDirectives.c(6,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  PreprocessorDirectives.vcxproj -> C:\Users\stron\source\repos\ConsoleApplication2\Debug\PreprocessorDirectives.exe

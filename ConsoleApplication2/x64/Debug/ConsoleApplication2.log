@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.c
+C:\Users\stron\source\repos\ConsoleApplication2\ConsoleApplication2\Header.h(45,15): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\stron\source\repos\ConsoleApplication2\ConsoleApplication2\Header.h(45,1): warning C4047: инициализация: "char *" отличается по уровням косвенного обращения от "int"
+C:\Users\stron\source\repos\ConsoleApplication2\ConsoleApplication2\Header.h(73,5): warning C4013: itoa: нет определения; предполагается "extern" с возвратом типа "int"
+  ConsoleApplication2.vcxproj -> C:\Users\stron\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
